@@ -10,5 +10,19 @@
 [galinaJass@jiunit:~]$./grader.js --checks checks.json --file index.html
 {
     ".navigation": true,
-    "h1": true
+    "h1": true,
+    ".logo": true,
+    ".blank": true,
+    ".about": true,
+    ".heading": true,
+    ".subheading": true,
+    ".pitch": true,
+    ".video": true,
+    ".thermometer": true,
+    ".order": true,
+    ".social": true,
+    ".section1": true,
+    ".section2": true,
+    ".faq": true,
+    ".footer": true
 }
