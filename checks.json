@@ -7,7 +7,7 @@
 ["h1",
 ".navigation"]
 
-[galinaJass@jiunit:~]$./grader.js --checks checks.json --file index.html
+[galinaJass@jiunit:~]$./grader.js --checks checks.json --url http://stark-earth-4451.herokuapp.com
 {
     ".navigation": true,
     "h1": true,
